@@ -14,3 +14,14 @@ If you want to not go through this, simply run collect Arcanes.py and it will ge
 ### Whats the point of EstablishXMLArcanes.py
 Well it's actually creating the json file in the same area. I started using XML, didn't realise you cant have integers. So i switched.
 Anyways, this file creates that file. It establishes the arcanes available by loid to roll for. Aswell as their dropchances displayed on the warframe wiki.
+
+## The Data
+
+The data available in the csv is as follows:
+
+- Name: The name of the arcane
+- DropChance: The chance to get the arcane when rolling using loid in the sanctum
+- Price: The average cheapest 5 prices of the arcane at max rank.
+- ValueProposition: The updated price given the drop chance ``(Price/100)*DropChance``
+- Volume: The average volume of sales in the last 48 hours
+- Faction: Which faction that cavia belongs to
