@@ -1,0 +1,711 @@
+[
+  {
+    "Arcanes": [
+      {
+        "Name": "Melee_Fortification",
+        "DropChance": 22.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Melee_Retaliation",
+        "DropChance": 22.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Melee_Animosity",
+        "DropChance": 12.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Melee_Exposure",
+        "DropChance": 12.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Melee_Influence",
+        "DropChance": 12.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Melee_Vortex",
+        "DropChance": 12.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Melee_Crescendo",
+        "DropChance": 2.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Melee_Duplicate",
+        "DropChance": 2.5,
+        "Faction": "Cavia"
+      },
+      {
+        "Name": "Arcane_Intention",
+        "DropChance": 22.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Magus_Aggress",
+        "DropChance": 22.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Arcane_Power_Ramp",
+        "DropChance": 12.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Primary_Blight",
+        "DropChance": 12.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Primary_Exhilarate",
+        "DropChance": 12.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Primary_Obstruct",
+        "DropChance": 12.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Shotgun_Vendetta",
+        "DropChance": 12.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Akimbo_Slip_Shot",
+        "DropChance": 12.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Secondary_Outburst",
+        "DropChance": 12.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Arcane_Reaper",
+        "DropChance": 2.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Longbow_Sharpshot",
+        "DropChance": 2.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Secondary_Shiver",
+        "DropChance": 2.5,
+        "Faction": "Duviri"
+      },
+      {
+        "Name": "Arcane_Consequence",
+        "DropChance": 6.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Ice",
+        "DropChance": 6.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Momentum",
+        "DropChance": 6.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Nullifier",
+        "DropChance": 6.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Tempo",
+        "DropChance": 6.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Warmth",
+        "DropChance": 6.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Acceleration",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Agility",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Awakening",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Deflection",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Eruption",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Guardian",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Healing",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Phantasm",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Strike",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Resistance",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Trickery",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Velocity",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Victory",
+        "DropChance": 2.69,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Aegis",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Arachne",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Avenger",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Fury",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Precision",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Pulse",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Rage",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Ultimatum",
+        "DropChance": 2.5,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Barrier",
+        "DropChance": 1.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Energize",
+        "DropChance": 1.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Grace",
+        "DropChance": 1.67,
+        "Faction": "Eidolon"
+      },
+      {
+        "Name": "Arcane_Blessing",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Arcane_Rise",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Molt_Augmented",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Molt_Efficiency",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Molt_Reconstruct",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Molt_Vigor",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Fractalized_Reset",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Primary_Frostbite",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Cascadia_Accuracy",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Cascadia_Empowered",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Cascadia_Flare",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Cascadia_Overcharge",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Conjunction_Voltage",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Emergence_Dissipate",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Emergence_Renewed",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Emergence_Savior",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Eternal_Eradicate",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Eternal_Logistics",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Eternal_Onslaught",
+        "DropChance": 5.263,
+        "Faction": "Holdfasts"
+      },
+      {
+        "Name": "Arcane_Double_Back",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Arcane_Steadfast",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Theorem_Contagion",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Theorem_Demulcent",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Theorem_Infection",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Primary_Plated_Round",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Secondary_Encumber",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Secondary_Kinship",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Residual_Boils",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Residual_Malodor",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Residual_Shock",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Residual_Viremia",
+        "DropChance": 8.33,
+        "Faction": "Necralisk"
+      },
+      {
+        "Name": "Magus_Husk",
+        "DropChance": 2.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Magus_Vigor",
+        "DropChance": 2.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Virtuos_Null",
+        "DropChance": 2.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Virtuos_Tempo",
+        "DropChance": 2.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Exodia_Triumph",
+        "DropChance": 4.286,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Exodia_Valor",
+        "DropChance": 4.286,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Magus_Cadence",
+        "DropChance": 4.286,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Magus_Cloud",
+        "DropChance": 4.286,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Magus_Replenish",
+        "DropChance": 4.286,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Virtuos_Fury",
+        "DropChance": 4.286,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Virtuos_Strike",
+        "DropChance": 4.286,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Exodia_Brave",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Exodia_Force",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Exodia_Hunt",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Exodia_Might",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Magus_Elevate",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Magus_Nourish",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Virtuos_Ghost",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Virtuos_Shadow",
+        "DropChance": 7.5,
+        "Faction": "Ostron"
+      },
+      {
+        "Name": "Magus_Accelerant",
+        "DropChance": 2.5,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Anomaly",
+        "DropChance": 2.5,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Drive",
+        "DropChance": 2.5,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Firewall",
+        "DropChance": 2.5,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Overload",
+        "DropChance": 2.5,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Virtuos_Spike",
+        "DropChance": 2.5,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Virtuos_Surge",
+        "DropChance": 2.5,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Glitch",
+        "DropChance": 3.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Repair",
+        "DropChance": 3.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Virtuos_Forge",
+        "DropChance": 3.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Virtuos_Trojan",
+        "DropChance": 3.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Pax_Bolt",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Pax_Charge",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Pax_Seeker",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Pax_Soar",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Destruct",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Lockdown",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Melt",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Magus_Revert",
+        "DropChance": 8.75,
+        "Faction": "Solaris"
+      },
+      {
+        "Name": "Arcane_Blade_Charger",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Arcane_Bodyguard",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Arcane_Pistoleer",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Arcane_Primary_Charger",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Arcane_Tanker",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Primary_Deadhead",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Primary_Dexterity",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Primary_Merciless",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Secondary_Deadhead",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Secondary_Dexterity",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Secondary_Merciless",
+        "DropChance": 9.091,
+        "Faction": "Steel Path"
+      },
+      {
+        "Name": "Arcane_Bellicose",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Arcane_Camisado",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Arcane_Crepuscular",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Arcane_Impetus",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Arcane_Truculence",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Primary_Crux",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Secondary_Enervate",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Melee_Doughty",
+        "DropChance": 11.875,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Arcane_Escapist",
+        "DropChance": 1.67,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Arcane_Hot_Shot",
+        "DropChance": 1.67,
+        "Faction": "Hollvania"
+      },
+      {
+        "Name": "Arcane_Universal_Fallout",
+        "DropChance": 1.67,
+        "Faction": "Hollvania"
+      }
+    ]
+  }
+]
