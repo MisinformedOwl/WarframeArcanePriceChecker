@@ -58,7 +58,7 @@ def scrapePrice(arcaneName: str) -> int:
     
     if len(prices) == 0:
         return 0
-    price = sum(prices)/len(prices)
+    price = sum(prices)/5
     return price
 
 def priceArcanes():
@@ -106,3 +106,4 @@ def priceArcanes():
     
     frame = pd.DataFrame(rows)
     frame.to_csv(Path(__file__).parent / "ArcanePriceAnalysis.csv")
+
